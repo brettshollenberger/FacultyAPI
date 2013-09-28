@@ -14,7 +14,6 @@ A basic use case is illustrated below:
 var express    = require('express');
 var app        = module.exports = express();
 var db         = require('./../mongooseModels');
-var app        = module.exports = express();
 var facultyApi = require('faculty-api');
 
 facultyApi.addResource({
