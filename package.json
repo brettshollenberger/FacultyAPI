@@ -12,6 +12,12 @@
     "Node",
     "MEAN"
   ],
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
   "author": "Brett Shollenberger",
   "license": "MIT License"
 }
