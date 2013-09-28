@@ -1,6 +1,6 @@
 {
   "name": "faculty-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Tool for creating a simple RESTful API from a Mongoose model with Express",
   "main": "lib/faculty-api.js",
   "keywords": [
