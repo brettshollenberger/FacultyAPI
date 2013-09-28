@@ -18,7 +18,7 @@ var facultyApi = require('faculty-api');
 
 facultyApi.addResource({
   app: app,
-  prefix: 'api',
+  urlPrefix: 'api',
   resourceName: 'users',
   table: db.user
 });
