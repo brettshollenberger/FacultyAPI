@@ -28,3 +28,5 @@ facultyApi.addResource({
 The only non-required option is the URL prefix, which defaults to api if you don't specify one. 
 
 In the example above, the URLs established are located at `/api/users/:id`, and include an additional route, `/api/users/schema` in case you want access to schema attributes for things like front-end validations.
+
+[See the project on npm](https://npmjs.org/package/faculty-api)
