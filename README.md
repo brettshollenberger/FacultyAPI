@@ -4,7 +4,7 @@ FacultyAPI creates a simple, RESTful API for MEAN stack apps.
 
 #### Use:
 
-`npm install faculty-api` or in your package.json `"faculty-api":"~0.0.2"`
+`npm install faculty-api` or in your package.json `"faculty-api":"~0.1.0"`
 
 Create a Mongoose model, and export it to your backend `app.js`.
 
@@ -20,7 +20,7 @@ facultyApi.addResource({
   app: app,
   urlPrefix: 'api',
   resourceName: 'users',
-  table: db.user
+  collection: db.user
 });
 ```
 
