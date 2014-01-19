@@ -1,6 +1,7 @@
 {
   "name": "faculty-api",
   "version": "0.1.1",
+  "repository": "https://github.com/brettshollenberger/FacultyAPI.git",
   "description": "Tool for creating a simple RESTful API from a Mongoose model with Express",
   "main": "lib/faculty-api.js",
   "keywords": [
